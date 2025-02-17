@@ -171,6 +171,7 @@ AC Analysis:
 ![Screenshot 2025-02-17 234931](https://github.com/user-attachments/assets/e78faaba-ecb3-4954-b7e1-5281609a10df)
 
 Gain = -0.85 dB
+
 Inference:
 
 The drain current increases proportionally with MOSFET width, demonstrating its dependence on device dimensions.
