@@ -1,5 +1,6 @@
 # LIC-LAB_Aneesh_kulkarni
 Given that the power, P = 100µW, conduct DC Analysis, Transient Analysis, and AC Analysis for the specified circuit designs. Additionally, observe the impact of increasing or decreasing the width of each MOSFET on circuit performance
+
 Circuit-1:
 Aim:
 ![Screenshot 2025-02-17 222813](https://github.com/user-attachments/assets/2d6acf33-ec23-4834-be68-39c4b07bffac)
